@@ -1,14 +1,19 @@
 {
-  "name": "note-taker",
+  "name": "11notetakr",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeffywk/11NoteTakr.git"
+  },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "express": "^4.16.4"
-  }
+  "bugs": {
+    "url": "https://github.com/jeffywk/11NoteTakr/issues"
+  },
+  "homepage": "https://github.com/jeffywk/11NoteTakr#readme"
 }
